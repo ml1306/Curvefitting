@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MyCurve", "MyCurve\MyCurve.vcproj", "{210D900E-119D-48B7-9415-E15297FF719A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{210D900E-119D-48B7-9415-E15297FF719A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{210D900E-119D-48B7-9415-E15297FF719A}.Debug|Win32.Build.0 = Debug|Win32
+		{210D900E-119D-48B7-9415-E15297FF719A}.Release|Win32.ActiveCfg = Release|Win32
+		{210D900E-119D-48B7-9415-E15297FF719A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
